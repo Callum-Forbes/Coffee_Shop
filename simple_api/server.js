@@ -5,7 +5,7 @@ const cors = require('cors')
 app.use(cors())
 
 app.get('/', ( req, res ) => res.send([{
-    "name": "Xingang",
+    "name": "Xingangg",
     "producer": "Wa family members Zhaomei and Yenai",
     "origin": "China",
     "altitude": "1600masl",
